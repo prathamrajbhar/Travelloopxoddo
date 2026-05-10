@@ -277,7 +277,7 @@ export function formatMoney(value: number) {
 }
 
 function actualImageUrl(value: string | null | undefined) {
-  if (!value || value.includes("source.unsplash.com")) {
+  if (!value) {
     return null;
   }
 
