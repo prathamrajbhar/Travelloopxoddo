@@ -25,13 +25,18 @@
 | :---: | :---: |
 | ![Dashboard](./screenshots/dashboard.png) | ![Explore](./screenshots/explore.png) |
 
+### My Trips & Admin Dashboard
+
 | My Trips | Admin Dashboard |
 | :---: | :---: |
 | ![My Trips](./screenshots/mytrip.png) | ![Admin](./screenshots/admin_dashboard.png) |
 
+### Admin Login
+
 | Admin Login |
 | :---: |
 | ![Admin Login](./screenshots/admin_login.png) |
+
 
 ---
 
